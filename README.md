@@ -4,7 +4,7 @@ SimpleSimQuant是来自于simulink的启发，期望做一个类似于simulink�
 
 注意:该项目当前只是一个展示的界面demo，不具备任何实际的功能，后期会上传代码。
 
-###LICENSE
+## LICENSE
     MIT
 
 SimpleSimQuan 需要依赖的相关开源库
